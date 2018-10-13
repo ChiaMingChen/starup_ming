@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context displayName="Star_Up" docBase="StarUp" path="/StarUp"
+	reloadable="true">
+
+	<!-- MySQL -->
+	<!-- <Resource name="jdbc/BookDataSQLver" type="javax.sql.DataSource" -->
+	<!-- username="root" password="password" -->
+	<!-- driverClassName="com.mysql.jdbc.Driver" -->
+	<!-- url="jdbc:mysql://127.0.0.1:3306/jspdb" -->
+	<!-- connectionProperties="useUnicode=yes;characterEncoding=utf8;" -->
+	<!-- maxActive="8" -->
+	<!-- maxIdle="4" -->
+	<!-- maxWait="5000" -->
+	<!-- /> -->
+
+	<Resource name="jdbc/BookDataSQLver" type="javax.sql.DataSource"
+		 username="root" password="jesus299"
+      driverClassName="com.mysql.jdbc.Driver"
+      url="jdbc:mysql:///star_up"
+      connectionProperties="useUnicode=yes;characterEncoding=utf8;useSSL=false;"    
+      maxActive="8"
+      maxIdle="4"
+      maxWait="5000"/>
+</Context>
