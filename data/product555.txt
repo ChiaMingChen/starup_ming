@@ -1,2 +1,2 @@
-商品輸入項目product --欄位名稱, 順序要對
+欄位名稱對照表: 商城商品的欄位順序, 順序要對
 prodName|prodType|prodImg|prodImgName|prodStock|prodPrice|prodCompany|prodIntro|
