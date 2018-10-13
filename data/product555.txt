@@ -1,1 +1,2 @@
-prodName|prodType|prodImg|prodImgName|prodStock|prodPrice|prodCompany|prodIntro
+prodName|prodType|prodImg|prodImgName|prodStock|prodPrice|prodCompany|prodIntro|
+column name 
