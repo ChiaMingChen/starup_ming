@@ -1,2 +1,2 @@
+product --column name
 prodName|prodType|prodImg|prodImgName|prodStock|prodPrice|prodCompany|prodIntro|
-column name 
